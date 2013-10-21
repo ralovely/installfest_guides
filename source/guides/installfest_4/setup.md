@@ -27,14 +27,14 @@ We will mention them along the guides.
 ### Run a Virtual Machine on your machine - The Vagrant Path
 #### Pre-requisites
 #### Pros & Cons
-**[Walk The Vagrant Path](/guides/installfest/setup_vagrant)**
+**[Walk The Vagrant Path](/guides/installfest_4/setup_vagrant)**
 
 ### Run a Virtual Machine in the cloud - The Nitrous Path
 #### Pre-requisites
 #### Pros & Cons
-**[Walk The Nitrous Path](/guides/installfest/setup_nitrous)**
+**[Walk The Nitrous Path](/guides/installfest_4/setup_nitrous)**
 
 ### Install binaries on your machine - The Rails Installer Path
 #### Pre-requisites
 #### Pros & Cons
-**[Walk The Rails Installer Path](/guides/installfest/setup_railsinstaller)**
+**[Walk The Rails Installer Path](/guides/installfest_4/setup_railsinstaller)**
